@@ -1,4 +1,4 @@
-# KONMF:Kernel Orthogonal Nonnegative Matrix Factorization 
+# KONMF: Kernel Orthogonal Nonnegative Matrix Factorization 
 
 This repository will contain the code implementation of the Kernel Orthognal Nonnegative matrix factorization model.
 
